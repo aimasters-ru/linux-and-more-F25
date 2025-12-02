@@ -83,7 +83,7 @@ jobs:
 
 ## Пример с условным принятие Pull-request
 
-https://github.com/datamove/linux-git2/blob/main/.github/workflows/checkmerge.yml
+https://github.com/aimasters-ru/linux-git2/blob/main/.github/workflows/checkmerge.yml
 
 Определение задачи, событий, етс - точно такое же, не привожу его. Ничинаем со steps.
 
