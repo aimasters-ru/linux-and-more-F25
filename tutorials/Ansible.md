@@ -16,7 +16,7 @@ New python executable in /home/artem/work/ozon/ansenv/bin/python3
 Also creating executable in /home/artem/work/ozon/ansenv/bin/python
 Installing setuptools, pkg_resources, pip, wheel...done.
 
-(base) $ source ansenv/bin/activate
+(base) $ source ansenv/local/bin/activate
 ```
 
 ### Ansible installation
