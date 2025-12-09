@@ -7,11 +7,11 @@
 Terraform блокирует РФ, поэтому требуется воспользоваться зеркалом https://hashicorp-releases.yandexcloud.net/terraform. Скачайте оттуда последний стабильный релиз командой wget, как показано ниже и проверьте:
 
 ```bash
-$ wget https://hashicorp-releases.yandexcloud.net/terraform/1.6.4/terraform_1.6.4_linux_amd64.zip
+$ wget https://hashicorp-releases.yandexcloud.net/terraform/1.14.1/terraform_1.14.1_linux_amd64.zip
 
-$ unzip terraform_1.6.4_linux_amd64.zip
+$ unzip terraform_1.14.1_linux_amd64.zip
 $ ./terraform -v
-Terraform v1.6.4
+Terraform v1.14.1
 on linux_amd64
 ```
 
